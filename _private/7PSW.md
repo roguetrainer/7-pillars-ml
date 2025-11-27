@@ -79,5 +79,3 @@ In modern AI, this is the "debugging" phase. We look at the "Hard Negatives"—t
 | **Regression** | Regression to the Mean | Regularization / Dropout |
 | **Design** | Randomized Trials | Stochastic Gradient Descent (SGD) |
 | **Residual** | Model Diagnostics | Boosting / Hard Negative Mining |
-
-**Would you like to dive deeper into "Residuals" and how modern Boosting algorithms (like XGBoost) mathematically weaponize this specific pillar?**
