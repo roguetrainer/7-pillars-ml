@@ -383,9 +383,9 @@ If you use this project in your research, teaching, or work, please cite:
 ```bibtex
 @misc{seven_pillars_ml_2024,
   title={The Seven Pillars of Statistical Wisdom in Modern AI/ML},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/yourusername/7-pillars-ml}},
+  author={Ian Buckley},
+  year={2025},
+  howpublished={\url{https://github.com/roguetrainer/7-pillars-ml}},
   note={Educational project mapping classical statistics to modern AI}
 }
 ```
