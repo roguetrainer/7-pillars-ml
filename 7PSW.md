@@ -75,6 +75,8 @@ where L is loss, N is scale (parameters/data/compute), and α is typically 0.05-
 
 **Concrete Example:** Doubling a training dataset from 1 million to 2 million examples might improve accuracy from 85% to 87% (+2 points), but doubling again from 2 million to 4 million might only yield 87.7% (+0.7 points)—clear diminishing returns.
 
+See also: [SCALING_ADDENDUM_2024.md](./SCALING_ADDENDUM_2024.md)
+
 ---
 
 ### 3. Likelihood
