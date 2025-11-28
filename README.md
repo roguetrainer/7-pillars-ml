@@ -9,6 +9,8 @@ A comprehensive educational project mapping Stephen M. Stigler's classical stati
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 
 ---
+![&PSW](./7PSW.png)   
+---
 
 ## 📖 Overview
 
