@@ -18,6 +18,10 @@ In 2016, statistician Stephen M. Stigler identified seven fundamental conceptual
 
 While computational methods have evolved dramatically (from hand calculations to neural networks with billions of parameters), the underlying statistical philosophy remains remarkably constant.
 
+---
+![&PSW](./7PSW-x7.jpg)   
+---
+
 ### The Seven Pillars
 
 | Pillar | Classical Statistics | Modern AI/ML |
